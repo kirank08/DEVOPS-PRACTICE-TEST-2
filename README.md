@@ -57,9 +57,6 @@ DAILY_KEEP=7
 WEEKLY_KEEP=4
 MONTHLY_KEEP=3
 
-# Optional email (simulated notification)
-EMAIL_ADDRESS=user@example.com
-
  How to Use
 1️ Make Script Executable
 chmod +x backup.sh
